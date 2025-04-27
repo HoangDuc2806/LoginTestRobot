@@ -25,7 +25,7 @@ Gồm 2 test case:
    cd <your-repo>
 
 2.Cài các thư viện cần thiết:
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Cách chạy test
-robot login_test.robot
+   robot login_test.robot
